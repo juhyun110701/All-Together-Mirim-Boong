@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/gdx-1.9.8.jar" sourcepath="libs/gdx-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="libs/jlayer-1.0.1-libgdx.jar"/>
+	<classpathentry kind="lib" path="libs/jorbis.jar"/>
+	<classpathentry kind="lib" path="libs/lwjgl.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-box2d-1.9.8.jar" sourcepath="libs/gdx-box2d-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-platform-1.9.8-natives-desktop.jar"/>
+	<classpathentry kind="lib" path="libs/sqlite-jdbc-3.23.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
